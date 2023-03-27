@@ -2,7 +2,7 @@
 A source code deveolped in Unity,For a game where you make your way home without being killed by zombies.
 
 
-#Deployment
+### Deployment
 
 In order to run the game you need to open the project via Unity and make an executeable from it.
 
